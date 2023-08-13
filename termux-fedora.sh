@@ -52,7 +52,8 @@ rm fedora.tar.xz
 
 # fix DNS
 
-echo "nameserver 8.8.8.8" > ~/fedora/etc/resolv.conf
+#echo "nameserver 8.8.8.8" > ~/fedora/etc/resolv.conf
+echo "nameserver 1.1.1.1" > ~/fedora/etc/resolv.conf
 
 # make a shortcut
 
