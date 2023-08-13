@@ -18,9 +18,9 @@ Supported images:
 
 ```
 pkg install wget -y && /data/data/com.termux/files/usr/bin/wget https://raw.githubusercontent.com/evproko/termux-fedora/master/termux-fedora.sh
-
-sh termux-fedora.sh [desired image]
 ```
+
+Then change **[desired image]** to the one you want: _sh termux-fedora.sh [desired image]_
 
 For example:
 
